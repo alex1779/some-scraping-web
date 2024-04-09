@@ -1,2 +1,2 @@
-# Example of scrping web using python
+# Example of scraping web using python
 
