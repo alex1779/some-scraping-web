@@ -1,0 +1,18 @@
+conda create -n rosariogarage -y && conda activate rosariogarage && conda install python=3.7.5 -y && pip install pyinstaller requests_html datetime rpaframework && cd C:\Users\Ale\Google Drive\Programacion\Python\Scraping Web\Rosario Garage
+
+
+
+conda activate rosariogarage && cd C:\Users\Ale\Google Drive\Programacion\Python\Scraping Web\Rosario Garage && pyinstaller --clean --onefile --icon=RosarioGarage.ico -n RosarioGarage_5.0 RosarioGarage_5.0.py
+
+
+
+pyinstaller --clean --onefile --icon=RosarioGarage.ico -n RosarioGarage_5.0(rolo) RosarioGarage_5.0_for_rolo.py
+
+conda activate base & conda remove --name rosariogarage2 --all -y
+conda activate base & conda remove --name rosariogarage --all -y
+
+
+
+
+
+
